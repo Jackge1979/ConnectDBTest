@@ -23,3 +23,5 @@
 ```shell
 java -jar ConnectDBTest-v0.1.jar
 ```
+
+*libs目录下是各种数据库驱动包。*
