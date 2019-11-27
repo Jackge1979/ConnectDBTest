@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_65]"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/jdbcT4-2.5.2.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="libs/Dm7JdbcDriver16.jar"/>
+	<classpathentry kind="lib" path="libs/dms.jar"/>
+	<classpathentry kind="lib" path="libs/ojdbc7_g.jar"/>
+	<classpathentry kind="lib" path="libs/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="libs/ojdbc7dms_g.jar"/>
+	<classpathentry kind="lib" path="libs/ojdbc7dms.jar"/>
+	<classpathentry kind="lib" path="libs/db2jcc_license_cu.jar"/>
+	<classpathentry kind="lib" path="libs/db2jcc.jar"/>
+	<classpathentry kind="lib" path="libs/db2jcc4.jar"/>
+	<classpathentry kind="lib" path="libs/edb-jdbc17.jar"/>
+	<classpathentry kind="lib" path="libs/gbase-connector-java-8.3.81.53-build54.4.7-bin.jar"/>
+	<classpathentry kind="lib" path="libs/hgdb-4.0-jdbc42.jar"/>
+	<classpathentry kind="lib" path="libs/kingbasejdbc4.jar"/>
+	<classpathentry kind="lib" path="libs/postgresql-42.2.4.jar"/>
+	<classpathentry kind="lib" path="libs/ultradb-native-jdbc-3.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/lz4-1.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
